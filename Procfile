@@ -1,0 +1,1 @@
+web: gunicon api_insta.wsgi --log-file -
